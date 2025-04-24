@@ -1,9 +1,10 @@
 # Prerequisite
 
-    1. Install postgres
-    2. Install Redis
-    3. update .env file according to your value
-    4. Create database
+    1. Install nodejs 20.00 or above
+    2. Install postgres
+    3. Install Redis
+    4. update .env file according to your value
+    5. Create database
 
 # Steps to Execute
 
